@@ -11,6 +11,7 @@ Below is an example of the results when you search state "fl" shape "other"
 
 # Summary:
 A drawback of this webpage is that it is not user friendly across all devices. See image below of the webpage in a mobile view for iphone. As you can see the columns do not fit the screen size, this makes the webpage visually unappealing.
+
 ![Output](static/images/device.PNG)
 
 ### Recommendations for Further Development:
